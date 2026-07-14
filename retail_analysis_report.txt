@@ -1,0 +1,31 @@
+
+Retail Performance Analysis Report
+=================================
+
+Key Metrics:
+- Total Records: 3,900
+- Total Revenue: $233,081.00
+- Average Transaction Value: $59.76
+- Most Popular Category: Clothing
+- Top Selling Item: Blouse
+- Forecast Accuracy: 72.16% (SMAPE)
+
+Inventory Insights:
+1. Highest turnover category: Clothing 
+   (Turnover rate: 3.33)
+2. Most stable demand: Clothing
+   (Variability: nan)
+3. Highest revenue category: Clothing
+   (Revenue: $104,264.00)
+
+Profitability Highlights:
+- Most profitable item: Blouse
+  (Total profit: $3,123.00)
+- Highest margin item: T-shirt
+  (Profit per unit: $18.87)
+
+Recommendations:
+1. Increase stock for high-turnover categories: Clothing, Accessories, Footwear
+2. Focus marketing on seasonal items for upcoming Spring season
+3. Develop promotions for low-margin high-volume items to improve profitability
+4. Monitor forecast accuracy weekly and adjust models based on recent trends
